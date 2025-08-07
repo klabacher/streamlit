@@ -1,3 +1,9 @@
 pandas
 streamlit
 assemblyai
+torch
+openai-whisper
+faster-whisper
+transformers
+sentencepiece
+accelerate
